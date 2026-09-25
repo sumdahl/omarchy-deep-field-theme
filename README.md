@@ -28,15 +28,14 @@ omarchy theme install https://github.com/sumdahl/omarchy-deep-field-theme
 
 ## Wallpapers
 
-- `00-earthrise.jpg`: William Anders / NASA, *Earthrise* (AS08-14-2383), Apollo 8, 1968, public domain. Cropped.
-- `01-pale-blue-dot.jpg`: NASA/JPL-Caltech, *Pale Blue Dot* (PIA23645, 2020 remaster), Voyager 1, 1990, public domain. Native crop plus an annotation.
-- `02-heliosphere.jpg`: original: log-scale orbit chart with Voyager 1's escape path.
-- `03-pulsar-map.jpg`: original: after the Voyager Golden Record pulsar map; the binary ticks are decorative, not real pulsar periods.
-- `04-southern-ring.jpg`: NASA, ESA, CSA, STScI, *Southern Ring Nebula* (JWST NIRCam, 2022), public domain. Floated on the void with feathered edges.
-- `05-pillars-of-creation.jpg`: NASA, ESA, CSA, STScI; J. DePasquale, A. Koekemoer, A. Pagan, *Pillars of Creation* (JWST NIRCam), public domain. Cropped, framed print.
-- `06-cosmic-cliffs.jpg`: NASA, ESA, CSA, STScI, via NASA's James Webb Space Telescope Flickr, *Cosmic Cliffs* (NGC 3324), CC BY 2.0. Framed print.
-- `07-ultra-deep-field.jpg`: NASA and ESA, *Hubble Ultra Deep Field* (high-res edit), public domain. Cropped.
-- `08-webb-first-deep-field.jpg`: NASA, ESA, CSA, STScI, *Webb's First Deep Field* (SMACS 0723), public domain. Framed print.
+- `00-earthrise.jpg`: William Anders / NASA, *Earthrise* (AS08-14-2383), Apollo 8, 1968, public domain.
+- `01-heliosphere.jpg`: original, made for this theme. A log-scale orbit chart with Voyager 1's escape path.
+- `02-earth-at-night.jpg`: NASA, ISS Expedition 63, *Persian Gulf at night*, public domain.
+- `03-pulsar-map.jpg`: original, made for this theme, after the Voyager Golden Record pulsar map.
+- `04-saturn-backlit.jpg`: NASA/JPL-Caltech/Space Science Institute, *A Splendor Seldom Seen* (PIA14934), Cassini, public domain.
+- `05-sky-over-kathmandu.jpg`: original, made for this theme. The sky over Kathmandu on 15 January 2026 at 21:00, drawn from the HYG star catalogue (astronexus, CC BY-SA 4.0) with constellation lines from d3-celestial (Olaf Frohn, BSD).
+- `06-southern-ring.jpg`: NASA, ESA, CSA, STScI, *Southern Ring Nebula* (JWST NIRCam), 2022, public domain.
+- `07-pale-blue-dot.jpg`: NASA/JPL-Caltech, *Pale Blue Dot Revisited* (PIA23645), Voyager 1, public domain.
 
 ## License
 
